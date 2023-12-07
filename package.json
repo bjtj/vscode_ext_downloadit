@@ -2,7 +2,10 @@
   "name": "downloadit",
   "displayName": "downloadit",
   "description": "",
+  "icon": "./images/icon_vscode.png",
   "version": "0.0.1",
+  "publisher": "TJ Apps",
+  "repository": "https://github.com/bjtj/vscode_ext_downloadit",
   "engines": {
     "vscode": "^1.84.0"
   },
@@ -14,12 +17,9 @@
   "contributes": {
     "commands": [
       {
-        "command": "downloadit.helloWorld",
-        "title": "Hello World"
-      },
-      {
         "command": "downloadit.download",
-        "title": "Download it"
+        "title": "Download it",
+        "icon": "./images/icon.svg"
       }
     ],
     "menus": {
