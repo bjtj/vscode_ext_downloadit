@@ -4,7 +4,7 @@
   "description": "",
   "icon": "./assets/icon_vscode.png",
   "version": "0.0.1",
-  "publisher": "TJ Apps",
+  "publisher": "bjtj",
   "repository": "https://github.com/bjtj/vscode_ext_downloadit",
   "engines": {
     "vscode": "^1.84.0"
