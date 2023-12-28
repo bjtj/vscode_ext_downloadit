@@ -1,9 +1,9 @@
 {
   "name": "downloadit",
   "displayName": "Download It",
-  "description": "",
+  "description": "Download file from URL to local folder",
   "icon": "./assets/icon_vscode.png",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "bjtj",
   "repository": "https://github.com/bjtj/vscode_ext_downloadit",
   "engines": {
